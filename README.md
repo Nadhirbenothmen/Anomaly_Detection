@@ -8,6 +8,17 @@
 Ce projet vise à détecter des anomalies dans les images en utilisant des modèles de deep learning. Le projet utilise le **Anomaly Detection Dataset** pour entraîner et tester des architectures avancées.
 
 
+## 📑 Table des Matières
+- [Description](#-description)
+- [Technologies](#-technologies)
+- [Données](#-données)
+- [Architecture du Modèle](#-architecture-du-modèle)
+- [Installation](#️-installation)
+- [Ressources](#-ressources)
+- [Contact](#-contact)
+
+
+
 
 ## 🧐 Description
 L'objectif principal de ce projet est de détecter des comportements ou objets anormaux dans des Images de piétons, tels que :
@@ -53,7 +64,7 @@ Les modèles testés incluent :
 
 ---
 
-## 📊 Ressources supplémentaires
+## 📊 Ressources
 
 Pour accéder aux ressources supplémentaires liées à ce projet, vous pouvez consulter le lien Google Drive ci-dessous :
 
