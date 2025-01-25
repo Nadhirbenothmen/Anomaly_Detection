@@ -1,5 +1,7 @@
 # 🛠️ Détection d'Anomalies à l'aide du Deep Learning
 
+🔗 [Accéder aux Data sur Google Drive](https://drive.google.com/file/d/1etqMok3535rsBWnRMPAfaqpEWUhtE-_8/view?usp=drive_link)
+
 ![Project Screenshot](DL.png)
 
 
