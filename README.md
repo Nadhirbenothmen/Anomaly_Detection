@@ -64,7 +64,7 @@ Pour accéder aux ressources supplémentaires liées à ce projet, vous pouvez c
 
 ## 📬 Contact
 Pour toute question, contactez-moi :
-- 📧 Email : [votre.email@example.com](mailto:nadhir.benothmen@esprit.tn)
+- 📧 Email : [nadhir.benothmen@esprit.tn](mailto:nadhir.benothmen@esprit.tn)
 - 🔗 LinkedIn : [Votre Profil LinkedIn](https://www.linkedin.com/in/nadhir-ben-othmen-a58604202/)
 
 
